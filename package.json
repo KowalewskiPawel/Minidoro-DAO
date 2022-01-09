@@ -2,7 +2,7 @@
   "name": "mydao",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kowalewskipawel.github.io/Minidoro-DAO/",
+  "homepage": "http://kowalewskipawel.github.io/Minidoro-DAO/",
   "engines": {
     "node": ">=16.0.0"
   },
